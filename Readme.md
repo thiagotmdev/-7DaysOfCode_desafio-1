@@ -1,4 +1,4 @@
-# DEsafios alura 7DaysOfCode
+# Desafios alura 7DaysOfCode
 
 ### Código do primeiro desafio
 
